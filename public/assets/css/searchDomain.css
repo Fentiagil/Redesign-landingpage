@@ -1,0 +1,26 @@
+.searchDomain{
+    background-color: #EDF2F4;
+}
+
+.contentSearch{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.btn-checkdomain{
+    border: none;
+    background-color: #FF6D0B;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.btn-checkdomain:hover{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    border-radius: 1rem;
+}
